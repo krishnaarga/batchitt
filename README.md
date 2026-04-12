@@ -48,5 +48,10 @@ To use Batchitt, follow these steps:
 
 ---
 
+### Chat UI
+
 ![Chat UI](images/chat-ui.png)
+
+### Setting UI
+
 ![Setting UI](images/setting-ui.png)
