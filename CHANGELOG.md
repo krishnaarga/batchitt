@@ -6,12 +6,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [1.1.0] - Upcoming
+## [2.1.0] - Upcoming
 
 ### 🚀 Planned
 - Real-time notifications
 - Improved UI/UX
 - Performance optimization
+
+---
+
+## [2.0.0] - 2026-04-15
+
+### ✨ Added
+- Added user search and send request
+- Display Pending Requests Users
+- Added Accept and Block buttons for pending requests
+- Display Sent Requests Users
+- Display Blocked Users List
+- Display profile picture
+- Added reload button for all lists
+- Improved UI/UX
 
 ---
 
