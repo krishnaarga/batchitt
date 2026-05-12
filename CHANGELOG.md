@@ -1,4 +1,4 @@
-# 🚀 Batchitt: Connect With Colleagues
+# 🚀 Batchitt: Connect with Colleagues
 
 ## Changelog
 
@@ -6,10 +6,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [2.2.0] - Upcoming
+## [3.1.0] - Upcoming
 
 ### 🚀 Planned
+- Group Chat Feature
+
+---
+
+## [3.0.0] - 2026-05-13
+
+### ✨ Added
 - Real-time notifications
+- Added documentation
+- Added support
+
+### 🎨 Improved
 - Improved UI/UX
 - Performance optimization
 
@@ -17,7 +28,7 @@ All notable changes to this project will be documented in this file.
 
 ## [2.1.0] - 2026-04-22
 
-### 🚀 Changed
+### 🎨 Improved
 - Change Log Out Position from Setting to View Action
 - Performance optimization
 
