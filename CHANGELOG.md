@@ -1,4 +1,4 @@
-# 🚀 Batchitt: Connect With Colleagues
+# 🚀 Batchitt: Connect with Colleagues
 
 ## Changelog
 
@@ -6,11 +6,30 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [2.1.0] - Upcoming
+## [3.1.0] - Upcoming
 
 ### 🚀 Planned
+- Group Chat Feature
+
+---
+
+## [3.0.0] - 2026-05-13
+
+### ✨ Added
 - Real-time notifications
+- Added documentation
+- Added support
+
+### 🎨 Improved
 - Improved UI/UX
+- Performance optimization
+
+---
+
+## [2.1.0] - 2026-04-22
+
+### 🎨 Improved
+- Change Log Out Position from Setting to View Action
 - Performance optimization
 
 ---
@@ -58,11 +77,9 @@ All notable changes to this project will be documented in this file.
 
 ### ✨ Added
 - Initial release of Batchitt
-- One-to-one chat functionality inside VS Code
-- Group chat support
+- One-to-one and group chat features within the code editor.
 - Authentication via Auth Key
 - Integration with https://batchitt.com for login
-- Basic chat UI inside VS Code panel
 
 ---
 
